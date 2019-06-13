@@ -1,4 +1,4 @@
-# MAPCP2019U - Computers In Physics (Summer 2019)  
+# MAPCP2019U - Methods of Applied Physics II - Computers in Physics  
 **Name**: Joshua Osborne  
 **UTA ID**:1000874509  
 **Email**: joshua.osborne@mavs.uta.edu  
