@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# MAPCP2019U - Computers In Physics (Summer 2019)  
+**Name**: Joshua Osborne  
+**UTA ID**:1000874509  
+**Email**: joshua.osborne@mavs.uta.edu  
+**Department**: [Department of Physics](https://www.uta.edu/physics/)   
+**University**: [The University of Texas at Arlington](https://www.uta.edu/uta/)  
+**Level**: undergraduate- Senior (4th year)  
+**MAPCP-Class Title**: Student  
+**Course Webpage**: https://www.cdslab.org/MAPCP2019U/  
+**Photo**:  
+![Alt Text](https://www.cdslab.org/img/people/JoshuaAlexanderOsborne.jpg)
 
-You can use the [editor on GitHub](https://github.com/JoshuaOsborneDATA/Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ # Description of the project’s content
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## This repository contains my homework, quizzes, and virtually every effort that I have made for [MAPCP2019U class](https://www.cdslab.org/MAPCP2019U/). The structure of the project is the following:
+*  [homework](https://github.com/JoshuaOsborneDATA/MAPCP2019U/tree/master/homework):
+This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission
 
-### Markdown
+* [quiz](https://github.com/JoshuaOsborneDATA/MAPCP2019U/tree/master/quiz):
+This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [exam](https://github.com/JoshuaOsborneDATA/MAPCP2019U/tree/master/exam):
+This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
-```markdown
-Syntax highlighted code block
+## For questions and troubleshooting, please contact:
+### Joshua Osborne
+### joshua.osborne@mavs.uta.edu
+### joshuaalexanderosborne@gmail.com
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoshuaOsborneDATA/Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> ## "I have not failed. I’ve just found 10,000 ways that won’t work."
+> ## [Thomas A. Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
