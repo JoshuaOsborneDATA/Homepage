@@ -8,7 +8,7 @@
 **MAPCP-Class Title**: Student  
 **Course Webpage**: https://www.cdslab.org/MAPCP2019U/  
 **Photo**:  
-![Alt Text](https://www.cdslab.org/img/people/JoshuaAlexanderOsborne.jpg)
+![Alt Text](https://www.cdslab.org/img/people/JoshuaAlexanderOsborne.jpg)  
 
  # Description of the project’s content
  
